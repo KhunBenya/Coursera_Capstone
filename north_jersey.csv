@@ -1,0 +1,9 @@
+north_jersey,county_pop,state_pop,%pop,median_household_income,state_median_household_income,county>state,race_white,race_hispanic,race_black,race_asian
+Bergen County ,930390,8882190,10.47,101144,85751,1,56.60,19.90,,16.20
+Essex County,795404,8882190,8.96,61510,85751,0,30.50,23.00,38.40,
+Hudson County,670046,8882190,7.54,71189,85751,0,28.80,43.10,,15.00
+Union County,554033,8882190,6.24,80198,85751,0,39.50,31.60,20.10,
+Passaic County,503637,8882190,5.67,69688,85751,0,41.30,41.50,10.40,
+Morris County,493379,8882190,5.55,115527,85751,1,71.40,13.30,,10.30
+Sussex County,141483,8882190,1.59,94520,85751,1,86.30,8.20,2.10,
+Warren County,105862,8882190,1.19,81307,85751,0,81.70,9.30,4.40,
